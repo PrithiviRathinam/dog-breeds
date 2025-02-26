@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Dog Breeds
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Collection of all dog breeds
 
 ## Available Scripts
 
